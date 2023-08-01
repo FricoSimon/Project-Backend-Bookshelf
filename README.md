@@ -16,3 +16,6 @@ This projet use several tools, libraries, framework, extensions, etc.
 - Nodemon 
 - ESLint
 
+
+### Please don't copy my code and submit your own code to avoid a plagiarism checker on your submissions. Anyway good luck on your submission!
+
